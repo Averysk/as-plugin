@@ -4,6 +4,12 @@ android studio 模板创建 Actvity Fragment
 
 更新日志
 
+2023年3月5日
+
+版本号
+ver 2022.1.1
+适用于 Android Studio 2022.1.1 版本以及以下版本
+
 
 版本号 
 ver 2021.2.1
