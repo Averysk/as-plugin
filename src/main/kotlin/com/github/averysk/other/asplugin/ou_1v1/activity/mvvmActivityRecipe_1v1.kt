@@ -28,7 +28,7 @@ fun RecipeExecutor.mvvmActivityRecipe_1v1(
                 "",
                 true
             )
-        }.${activityClass}Activity",
+        }.ui.${activityClass}Activity",
         packageName = packageName,
         isLauncher = false,
         hasNoActionBar = false,
